@@ -21,14 +21,14 @@ body {font-family: "Lato", sans-serif}
   <div class="w3-bar w3-black w3-card">
     <a class="w3-bar-item w3-button w3-padding-large w3-hide-medium w3-hide-large w3-right" href="javascript:void(0)" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
     <a href="#" class="w3-bar-item w3-button w3-padding-large">HOME</a>
-    <a href="fu.php" onclick="window.open(this.href,'','width=510, height=620, scrollbars=yes'); return false;" class="w3-bar-item w3-button w3-padding-large w3-hide-small">UPLOAD</a>
+    <a href="fu.php" onclick="window.open(this.href,'','width=500, height=200, scrollbars=yes'); return false;" class="w3-bar-item w3-button w3-padding-large w3-hide-small">UPLOAD</a>
     
   </div>
 </div>
 
 <!-- Navbar on small screens -->
 <div id="navDemo" class="w3-bar-block w3-black w3-hide w3-hide-large w3-hide-medium w3-top" style="margin-top:46px">
-  <a href="fu.php" onclick="window.open(this.href,'','width=510, height=620, scrollbars=yes'); return false;" class="w3-bar-item w3-button w3-padding-large">UPLOAD</a>
+  <a href="fu.php" onclick="window.open(this.href,'','width=500, height=200, scrollbars=yes'); return false;" class="w3-bar-item w3-button w3-padding-large">UPLOAD</a>
 </div>
 
 <!-- Page content -->
