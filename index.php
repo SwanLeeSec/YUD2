@@ -38,11 +38,12 @@ body {font-family: "Lato", sans-serif}
   <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:800px" id="title">
     <h2 class="w3-wide">잘 되는 이미지 뷰어 </h2>
     <p class="w3-opacity"><i>다기능 온라인 이미지 뷰어</i></p>
-    <p class="w3-justify">이렇게 -------- 만들었다.</p>
+    <p class="w3-justify">LEADTOOLS HTML5 및 JavaScript 라이브러리를 사용하는 웹 개발자들은 문서 및 의료 이미징 기능성을 갖는 제로 풋프린트, 크로스 플랫폼 어플리케이션들을 제작할 수 있습니다. 개발자들은 강력한 이미지 디스플레이 및 처리, 마우스와 멀티 터치 제스처, 주석 등등을 지원하는 하나의 응용 프로그램으로, 데스크톱, 타블렛 및 아이패드, 아이폰, 안드로이드 등과 같은 모바일 기기를 타겟팅할 수 있습니다. </p>
   </div>
 
   <!-- 이미지 슬라이드 들어갈 부분  -->
   <div class="w3-black" id="slide">
+  	<h2 class="w3-wide"> 이미지 슬라이드 들어갈 곳 </h2>
     <div class="w3-container w3-content w3-padding-64" style="max-width:800px">
     </div>
   </div>
