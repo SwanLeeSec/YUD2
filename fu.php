@@ -8,11 +8,20 @@
 <meta charset="UTF-8">
 </head>
 <body>
-
+<br />
+<br />
+<br />
 <form action="upload.php" method="post" enctype="multipart/form-data">
-    Select image to upload:
-    <input type="file" name="fileToUpload" id="fileToUpload">
-    <input type="submit" value="이미지 업로드" name="submit" class="btn btn-info">
+	<table class="board_search" border="0" width="430" height="30" align="center"> 
+  	<tr>
+  		<td> 
+    	<input type="file" name="fileToUpload" id="fileToUpload">
+    	</td>
+    	<td>
+    	<input type="submit" value="이미지 업로드" name="submit" class="btn btn-primary btn-sm">
+    	</td>
+    </tr>
+    </table>
 </form>
 
 </body>
